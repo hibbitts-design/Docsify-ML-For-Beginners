@@ -10,7 +10,7 @@
 
 # Machine Learning for Beginners - A Curriculum
 
-> 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
+> 🌍 Travel around the world as we explore [Machine Learning](https://www.interviewbit.com/machine-learning-interview-questions) by means of world cultures 🌍
 
 Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about **Machine Learning**. In this curriculum, you will learn about what is sometimes called **classic machine learning**, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum. Pair these lessons with our forthcoming 'Data Science for Beginners' curriculum, as well!
 
